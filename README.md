@@ -134,27 +134,18 @@
 
 ---
 
+---
+
 # 🚀 Featured Projects
 
-<p align="center">
+| Project | Technologies | Description |
+|---------|--------------|-------------|
+| 📊 Mutual Fund Analytics Dashboard | Python • SQL • Power BI | Built an end-to-end analytics pipeline to analyze mutual fund performance, generate KPIs, and create interactive dashboards. |
+| 📈 Stock Market Analytics | Python • Pandas • Plotly • SQL | Performed financial data analysis, visualization, and trend identification using stock market datasets. |
+| ☁️ SAP Analytics Cloud Dashboard | SAP SAC • Excel | Developed interactive dashboards and business reports with KPI tracking and data visualization. |
+| 🛒 MERN E-Commerce Website | React • Node.js • Express • MongoDB | Designed and developed a responsive full-stack e-commerce application with authentication and product management. |
+| 🤖 AI Research & Automation | Python • LLMs • Prompt Engineering | Explored AI workflows, prompt engineering, and automation using modern AI tools and techniques. |
 
-<a href="https://github.com/sengoku69/N100_Financial_Intelligence">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sengoku69&repo=N100_Financial_Intelligence&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/sengoku69/mutual_fund_analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sengoku69&repo=mutual_fund_analysis&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/sengoku69/My-TY-project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sengoku69&repo=My-TY-project&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/sengoku69/figma-screens">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sengoku69&repo=figma-screens&theme=tokyonight" />
-</a>
-
-</p>
 # 💡 Favorite Quote
 
 > *"Data is a valuable asset only when transformed into actionable insights."*
