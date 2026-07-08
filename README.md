@@ -101,14 +101,13 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sengoku69&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sengoku69&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sengoku69&theme=github_dark)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sengoku69&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sengoku69&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sengoku69&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sengoku69&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sengoku69&theme=github_dark)
 
 # 📈 Contribution Graph
 
