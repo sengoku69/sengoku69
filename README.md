@@ -2,6 +2,10 @@
 
 # Hi 👋 I'm Suraj Narayan
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sengoku69&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
 ### Data Analyst • AI Research • SAP Analytics Cloud • Software Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=Data+Analyst;AI+Research+Enthusiast;SAP+Analytics+Cloud;Python+Developer;Business+Intelligence;Software+Engineer" />
@@ -25,6 +29,19 @@
 📈 I enjoy building dashboards, automating workflows, analyzing large datasets, and developing scalable software solutions.
 
 ---
+## 💡 Quote
+
+> "Turning data into decisions, ideas into software, and curiosity into innovation."
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Secure a Data Analyst / AI Engineer role
+- 📚 Master LLMs & AI Agents
+- ☁️ Become SAP Analytics Cloud Certified
+- 🚀 Publish 15+ production-quality GitHub projects
+- 🌍 Contribute to Open Source
 
 # 💼 Current Focus
 
@@ -115,17 +132,29 @@
 
 ---
 
+---
+
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🔹 Mutual Fund Analytics | Python, SQL, Power BI dashboard with financial KPIs and ETL pipeline |
-| 🔹 Stock Market Analytics | Financial analysis using Pandas, Plotly, SQL, and interactive dashboards |
-| 🔹 AI Research Projects | LLMs, Prompt Engineering, AI workflows, and automation experiments |
-| 🔹 MERN E-Commerce Website | Full-stack e-commerce platform using React, Node.js, Express, and MongoDB |
-| 🔹 SAP Analytics Cloud Dashboard | Interactive business dashboards and KPI reporting |
+<p align="center">
 
----
+<a href="https://github.com/sengoku69/Mutual-Fund-Analytics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sengoku69&repo=Mutual-Fund-Analytics&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/sengoku69/Stock-Market-Analytics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sengoku69&repo=Stock-Market-Analytics&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/sengoku69/SAP-SAC-Dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sengoku69&repo=SAP-SAC-Dashboard&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/sengoku69/MERN-Ecommerce">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sengoku69&repo=MERN-Ecommerce&theme=tokyonight" />
+</a>
+
+</p>
 
 # 💡 Favorite Quote
 
