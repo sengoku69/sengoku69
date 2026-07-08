@@ -117,11 +117,9 @@
 
 # 🏆 GitHub Trophies
 
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=sengoku69&theme=tokyonight&no-frame=true&margin-w=10)
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sengoku69&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 ---
 
 # 🚀 Featured Projects
