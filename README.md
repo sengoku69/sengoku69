@@ -138,24 +138,23 @@
 
 <p align="center">
 
-<a href="https://github.com/sengoku69/Mutual-Fund-Analytics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sengoku69&repo=Mutual-Fund-Analytics&theme=tokyonight" />
+<a href="https://github.com/sengoku69/N100_Financial_Intelligence">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sengoku69&repo=N100_Financial_Intelligence&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/sengoku69/Stock-Market-Analytics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sengoku69&repo=Stock-Market-Analytics&theme=tokyonight" />
+<a href="https://github.com/sengoku69/mutual_fund_analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sengoku69&repo=mutual_fund_analysis&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/sengoku69/SAP-SAC-Dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sengoku69&repo=SAP-SAC-Dashboard&theme=tokyonight" />
+<a href="https://github.com/sengoku69/My-TY-project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sengoku69&repo=My-TY-project&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/sengoku69/MERN-Ecommerce">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sengoku69&repo=MERN-Ecommerce&theme=tokyonight" />
+<a href="https://github.com/sengoku69/figma-screens">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sengoku69&repo=figma-screens&theme=tokyonight" />
 </a>
 
 </p>
-
 # 💡 Favorite Quote
 
 > *"Data is a valuable asset only when transformed into actionable insights."*
