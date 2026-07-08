@@ -99,6 +99,57 @@
 
 ---
 
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sengoku69&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sengoku69&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sengoku69&theme=tokyonight&hide_border=true"/>
+
+</div>
+---
+
+# 📈 Contribution Graph
+
+[![Suraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sengoku69&theme=tokyo-night)](https://github.com/sengoku69)
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=sengoku69&theme=tokyonight&no-frame=true&margin-w=10)
+
+</div>
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🔹 Mutual Fund Analytics | Python, SQL, Power BI dashboard with financial KPIs and ETL pipeline |
+| 🔹 Stock Market Analytics | Financial analysis using Pandas, Plotly, SQL, and interactive dashboards |
+| 🔹 AI Research Projects | LLMs, Prompt Engineering, AI workflows, and automation experiments |
+| 🔹 MERN E-Commerce Website | Full-stack e-commerce platform using React, Node.js, Express, and MongoDB |
+| 🔹 SAP Analytics Cloud Dashboard | Interactive business dashboards and KPI reporting |
+
+---
+
+# 💡 Favorite Quote
+
+> *"Data is a valuable asset only when transformed into actionable insights."*
+
+
 ### 🌐 Connect With Me
 
 <p align="center">
